@@ -68,9 +68,30 @@
   <created_user>-</created_user>
   <created_date>2014&#x2f;12&#x2f;16 09&#x3a;40&#x3a;20.182</created_date>
   <modified_user>-</modified_user>
-  <modified_date>2014&#x2f;12&#x2f;16 10&#x3a;15&#x3a;40.426</modified_date>
+  <modified_date>2014&#x2f;12&#x2f;16 10&#x3a;31&#x3a;46.919</modified_date>
   </info>
   <notepads>
+    <notepad>
+      <note>Transforma&#xe7;&#xe3;o para carregar os Dados de Acidente de Trabalho</note>
+      <xloc>71</xloc>
+      <yloc>45</yloc>
+      <width>414</width>
+      <heigth>26</heigth>
+      <fontname>Lucida Grande</fontname>
+      <fontsize>13</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>205</backgroundcolorgreen>
+      <backgroundcolorblue>112</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
   </notepads>
   <connection>
     <name>dw_habitacao</name>
@@ -289,7 +310,7 @@
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
       <xloc>81</xloc>
-      <yloc>111</yloc>
+      <yloc>194</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -326,8 +347,8 @@
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>632</xloc>
-      <yloc>113</yloc>
+      <xloc>678</xloc>
+      <yloc>188</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -406,8 +427,8 @@
         <storage_type/>
       </meta>    </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>323</xloc>
-      <yloc>114</yloc>
+      <xloc>362</xloc>
+      <yloc>192</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
